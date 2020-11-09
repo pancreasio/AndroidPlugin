@@ -1,0 +1,3 @@
+include ':UltraLogger2'
+include ':app'
+rootProject.name = "PluginTest"
